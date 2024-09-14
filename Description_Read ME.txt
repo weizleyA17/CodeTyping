@@ -1,0 +1,22 @@
+Welcome to the Code Typing Challenge, a fast-paced typing game designed to test and improve your coding speed and accuracy. This game provides a series of JavaScript code snippets that you must type out as quickly and accurately as possible within a set time limit.
+
+Gameplay:
+
+Start a Game: Click the "New Game" button to begin. You will be presented with a random JavaScript code snippet and a description of what the code does.
+Type the Snippet: As the code snippet appears on the screen, type each character as it appears. Your goal is to match the provided code exactly.
+Time Limit: You have 30 seconds to type the snippet. A countdown timer will keep track of the remaining time.
+Scoring: Your performance is measured in Words Per Minute (WPM). The more accurately and quickly you type, the higher your WPM score will be.
+End of Game: Once the timer runs out or you complete the snippet, the game ends. Your results, including your WPM and the time taken, will be displayed and saved.
+
+Features:
+
+Real-Time Feedback: As you type, the game highlights correct and incorrect keystrokes, helping you to learn and improve.
+Game Results: After each game, your results are saved and displayed in a leaderboard format. This lets you track your progress and compare your scores over time.
+Customizable Modes: Switch between different display modes to suit your preferences, including light mode, terminal mode, and a root mode.
+Objective: The goal of the game is to achieve the highest WPM score possible while maintaining accuracy. Compete against your previous scores and challenge yourself to improve with each game.
+
+
+Developer: Weizley Alexandre Lopes Manuel
+Date: 26-08-2024
+
+Enjoy the challenge and happy coding!
